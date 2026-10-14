@@ -1,0 +1,4 @@
+interface:
+  display_name: "digit-data · 文献 Wiki"
+  short_description: "把 PDF 论文集整理为 Markdown 文献库与方法图谱"
+  default_prompt: "使用 $digit-data 将这批 PDF 整理或更新为本地文献 Wiki 与方法图谱。"
